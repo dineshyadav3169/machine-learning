@@ -15,6 +15,7 @@
 - [Iris-Clustering](https://github.com/dineshyadav3169/machine-learning/tree/new/Clustering/Iris%20Clustering)
 - [Brest Cancer detection](https://github.com/dineshyadav3169/machine-learning/tree/new/Classification/Breast%20Cancer%20Detection)
 - [Chronic Kidney Disease](https://github.com/dineshyadav3169/machine-learning/tree/new/Artificial%20Neural%20Networks/Chronic%20Kidney%20Disease)
+- [Diabetes Prediction System](https://github.com/dineshyadav3169/machine-learning/tree/new/Classification/Diabetes%20Prediction)
 
 ---
 
@@ -54,7 +55,7 @@ The list of datasets that is being used for Jupyter Notebook can be found [here]
 - [x] Brest Cancer detection
 - [x] Chronic Kidney Disease
 - [ ] Football game prediction
-- [ ] Diabetes Prediction
+- [x] Diabetes Prediction
 - [ ] Email Spam Classifier
 - [ ] Movie Recommender
 - [ ] TMDB 5000 Movie
